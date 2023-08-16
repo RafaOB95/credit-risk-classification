@@ -1,6 +1,8 @@
 # credit-risk-classification
 
 Credit Risk Analysis Report
+
+
 The purpose of the exercise is to create a classifier model that allow us to make predictions about the loan status of the clients (0 = healthy, 1 = high risk), based on different values as loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, and total debt.
 
 I’m glad to announce that the model works perfectly, after making some adjustments especially on the balance of the number of data points, with a precision of 0.99% the model shows us the next classification:
