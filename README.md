@@ -8,8 +8,11 @@ The purpose of the exercise is to create a classifier model that allow us to mak
 I’m glad to announce that the model works perfectly, after making some adjustments especially on the balance of the number of data points, with a precision of 0.99% the model shows us the next classification:
 
 		precision    recall  f1-score   support
+  
    0       	   0.99      0.99      0.99     56277
+   
    1       	   0.99      0.99      0.99     56277
+   
 
 accuracy                        	 0.99    112554
 
