@@ -1,4 +1,6 @@
-# credit-risk-classification
+# !!!! This report is also inside of the file "Credit_Risk". The instructions said that the report must be as the READ ME file, that's why this report is in this part.
+
+## credit-risk-classification
 
 Credit Risk Analysis Report
 
